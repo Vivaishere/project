@@ -8,4 +8,6 @@ dependencies:
   - python>=3.10
   - jupyterlab
   - conda
+  - matplotlib>=3.6.3
+  - pandas
 prefix: C:\Users\vivav\miniconda3\envs\dstoolbox
